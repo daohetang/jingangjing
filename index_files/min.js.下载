@@ -1,0 +1,27 @@
+﻿
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?24c58357bb28a3642136c123ecdcf063";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+document.writeln("<a name=\'gb2big5\' id=\'gb2big5\'>繁體版</a><script language=javascript src=\'gb2big5.js\'></script><br />");
+
+document.writeln("本站所提供的下载资源全部都是免费的，本站无任何微博，微信，网店等，任何和本站同名的网络客户端均非本站。<br />");
+document.writeln("本站不接受任何形式（个人及机构）的支助、供养，也不会以佛经在线的名义进行任何形式的募捐活动，若发现以“佛经在线”名义的上述行为，我们将追究法律责任。<br />");
+document.writeln("感恩尽虚空遍法界十方三世一切诸佛菩萨慈悲加持 ！感恩三宝恩德！感恩天龙护法护持！<br />");
+document.writeln("本站文章全部收集于互联网，与本站无关，如发现经文中有出错之处请发邮件给我们 zsztbs@outlook.com 谢谢。<br />");
+
